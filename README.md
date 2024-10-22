@@ -96,3 +96,16 @@ The LCD library (like LiquidCrystal) is included in the Arduino sketch to contro
 
 9) Solar Panel Power Supply: \
 To ensure prolonged operation and sustainability, the robot incorporates solar panels for energy harvesting. Solar energy is converted into electrical power, providing an independent and renewable energy source that extends the robot's operational endurance, particularly in remote or off-grid locations.  
+
+<img width="380" alt="Screenshot 2024-10-22 181731" src="https://github.com/user-attachments/assets/2374050a-5d63-4af3-a93f-100ee50c0bbd">
+
+
+<img width="228" alt="Screenshot 2024-10-22 181740" src="https://github.com/user-attachments/assets/cf0627b6-c334-4143-8f62-469a1bc0ac15">
+
+
+<img width="362" alt="Screenshot 2024-10-22 181751" src="https://github.com/user-attachments/assets/f28bc001-edf6-461c-af25-69d111b92baf">
+
+
+<img width="262" alt="Screenshot 2024-10-22 181800" src="https://github.com/user-attachments/assets/1e5c7fe6-4beb-4420-98a4-acdf88b2bd7a">
+
+
